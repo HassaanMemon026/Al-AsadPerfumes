@@ -21,7 +21,7 @@ Al Asad Perfumes is a product showcase website designed to:
 
 ## 🛠 Tech Stack
 
--   **Next.js 14 (App Router)**
+-   **Next.js 16 (App Router)**
 -   **React**
 -   **Tailwind CSS**
 -   **Vercel Deployment**
