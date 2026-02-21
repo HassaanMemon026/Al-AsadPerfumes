@@ -1,56 +1,65 @@
-# 🌿 Al Asad Perfumes -- Client Project
+# 🌿 Al Asad Perfumes -- Production Client Project
 
-A modern, responsive fragrance showcase website built using **Next.js
-(App Router)** and **Tailwind CSS**.\
-This project was developed as a complete client delivery including
-branding, deployment, and domain integration.
-
-------------------------------------------------------------------------
-
-## 🚀 Project Overview
-
-Al Asad Perfumes is a product showcase website designed to:
-
--   Display fragrance collections (Men, Women, Unisex)
--   Provide dynamic product detail pages
--   Enable direct WhatsApp ordering
--   Maintain a premium black & gold luxury theme
--   Be fully responsive (Mobile-First Design)
+<p align="center">
+  <a href="https://al-asad-perfumes.com" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Website-Visit%20Now-0B0B0B?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/muhammadhassaan026" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hassaan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/HassaanMemon026" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ------------------------------------------------------------------------
 
-## 🛠 Tech Stack
+## 🚀 Live Project
 
--   **Next.js 16 (App Router)**
--   **React**
--   **Tailwind CSS**
--   **Vercel Deployment**
--   **Custom Domain Integration**
--   **Dynamic Routing (Frontend-based)**
--   **Reusable Component Architecture**
+🌐 **Official Domain:** https://al-asad-perfumes.com
+
+A fully deployed and production-ready fragrance showcase website built
+for a real client.
 
 ------------------------------------------------------------------------
 
-## ✨ Key Features
+## 🛠 Tech Stack & Badges
 
--   🔹 Premium Hero Section
--   🔹 Category-based Product Filtering
--   🔹 Dynamic Product Detail Pages
--   🔹 WhatsApp Order Integration
--   🔹 Sticky Global WhatsApp Button
--   🔹 SEO Metadata Configuration
--   🔹 Clean Folder Architecture
--   🔹 Responsive Design Across Devices
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-App%20Router-black?logo=next.js" />
+  <img src="https://img.shields.io/badge/React-18-blue?logo=react" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Utility%20First-38B2AC?logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Deployment-GitHub%20Pages-success?logo=github" />
+  <img src="https://img.shields.io/badge/Architecture-Component%20Based-orange" />
+  <img src="https://img.shields.io/github/languages/top/HassaanMemon026/Al-AsadPerfumes" />
+  <img src="https://img.shields.io/github/repo-size/HassaanMemon026/Al-AsadPerfumes" />
+</p>
+
+
 
 ------------------------------------------------------------------------
 
-## 📁 Project Structure
+## 💼 Project Overview
+
+This project represents:
+
+-   Complete client delivery workflow
+-   Custom UI design (Black & Gold Brand Theme)
+-   Dynamic Product Routing
+-   Category Filtering (Men / Women / Unisex)
+-   WhatsApp Direct Order Integration
+-   Sticky Global CTA Button
+-   SEO Optimized Metadata
+-   Static Export Deployment Setup
+
+------------------------------------------------------------------------
+
+## 📁 Architecture Structure
 
     src/
      ├── app/
      │    ├── page.js
      │    ├── collection/
-     │    ├── product/
      │    ├── about/
      │    └── contact/
      ├── components/
@@ -60,32 +69,52 @@ Al Asad Perfumes is a product showcase website designed to:
 
 ------------------------------------------------------------------------
 
-## 🔐 Ownership & Deployment
+## ⚙ Deployment Configuration
 
--   Hosting configured on client account
--   Domain connected and SSL secured
--   Repository maintained with structured version control
--   Client-ready handover completed
-
-------------------------------------------------------------------------
-
-## 🎯 Learning & Outcome
-
-This project represents:
-
--   Real client delivery workflow
--   Branding alignment with business requirements
--   Clean component-based frontend architecture
--   Production-ready deployment setup
+-   Static Export Enabled (`output: "export"`)
+-   Optimized for GitHub Pages Hosting
+-   Custom Domain Integration
+-   SSL Secured Production Setup
 
 ------------------------------------------------------------------------
 
-## 📌 Author
+## 🎯 What This Project Demonstrates
 
-[**Muhammad Hassaan**](https://linkedin.com/in/muhammadhassaan026)
+✔ Real Client Delivery\
+✔ Clean Component Architecture\
+✔ Scalable Frontend Structure\
+✔ Branding + Deployment + Domain Integration\
+✔ Professional Repository Structuring
+
+------------------------------------------------------------------------
+
+## 👨‍💻 Developed By
+
+### Muhammad Hassaan
+
 Full Stack Web Developer\
-Specializing in modern React & Next.js solutions
+Modern Web Architect \| React & Next.js Specialist
+
+🔗 LinkedIn: https://linkedin.com/in/muhammadhassaan026\
+🔗 GitHub: https://github.com/HassaanMemon026
 
 ------------------------------------------------------------------------
 
-© 2026 -- Project built with precision and professionalism.
+## 📌 Professional Availability
+
+If you're looking for:
+
+-   Business Website Development
+-   Brand Showcase Projects
+-   Modern Next.js Frontend Architecture
+-   Deployment & Production Configuration
+-   Performance-Optimized UI Systems
+
+Let's connect:
+
+👉 https://linkedin.com/in/muhammadhassaan026
+
+------------------------------------------------------------------------
+
+© 2026 -- Built with precision, structure, and production-grade
+standards.
