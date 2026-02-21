@@ -12,7 +12,7 @@ export default function Hero() {
         flex
         items-center
         bg-cover
-        bg-center
+        
         bg-no-repeat
       "
             style={{
@@ -79,7 +79,7 @@ export default function Hero() {
                         </Link>
 
                         <a
-                            href="https://wa.me/923211221136"
+                            href="https://wa.me/923192419226?text=I'm%20interested%20in%20your%20perfumes.%20Please%20provide%20more%20details."
                             target="_blank"
                             className="
                 border
@@ -93,8 +93,7 @@ export default function Hero() {
                 rounded-md
                 transition
                 duration-300
-                text-center
-              "
+                text-center"
                         >
                             Order on WhatsApp
                         </a>
@@ -103,6 +102,8 @@ export default function Hero() {
 
                 </div>
             </div>
+
+
         </section>
     );
 }
