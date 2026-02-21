@@ -29,7 +29,7 @@ for a real client.
   <img src="https://img.shields.io/badge/Next.js-App%20Router-black?logo=next.js" />
   <img src="https://img.shields.io/badge/React-18-blue?logo=react" />
   <img src="https://img.shields.io/badge/TailwindCSS-Utility%20First-38B2AC?logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/Deployment-GitHub%20Pages-success?logo=github" />
+  <img src="https://img.shields.io/badge/Deployment-Vercel-000000?logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Architecture-Component%20Based-orange" />
   <img src="https://img.shields.io/github/languages/top/HassaanMemon026/Al-AsadPerfumes" />
   <img src="https://img.shields.io/github/repo-size/HassaanMemon026/Al-AsadPerfumes" />
@@ -118,3 +118,6 @@ Let's connect:
 
 © 2026 -- Built with precision, structure, and production-grade
 standards.
+
+
+
