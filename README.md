@@ -82,7 +82,7 @@ This project represents:
 
 ## 📌 Author
 
-**Muhammad Hassaan**\
+[**Muhammad Hassaan**](https://linkedin.com/in/muhammadhassaan026)
 Full Stack Web Developer\
 Specializing in modern React & Next.js solutions
 
